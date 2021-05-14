@@ -1,6 +1,6 @@
 Wentao Xu, Jeffrey Wu
 
-wxu22, jwu210
+wxu22@ucsc.edu, jwu210@ucsc.edu
 
 asgn3
 
