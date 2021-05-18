@@ -17,4 +17,4 @@ To run the program:
 
 		Port is optional, defaults to 80 if no port is provided, but it requires admin privilege to run. 
 		-N: option for multi-threads, default to 4. Thread_num must be greater than 0.
-		-r: enables redundancy. 
+		-r: enables redundancy, must have folders named "copy1", "copy2", and "copy3" in the same directory as the executable. 
